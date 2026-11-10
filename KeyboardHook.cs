@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace MicMuteToggle
+namespace UniversalMicMute
 {
     public class KeyEventArgsEx : EventArgs
     {
