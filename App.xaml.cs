@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace MicMuteToggle
+namespace UniversalMicMute
 {
     public partial class App : System.Windows.Application
     {

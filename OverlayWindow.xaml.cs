@@ -4,7 +4,7 @@ using System.Windows.Input;
 using System.Windows.Interop;
 using System.Windows.Media;
 
-namespace MicMuteToggle
+namespace UniversalMicMute
 {
     public partial class OverlayWindow : Window
     {
